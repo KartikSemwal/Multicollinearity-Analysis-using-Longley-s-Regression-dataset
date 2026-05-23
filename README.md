@@ -1,2 +1,3 @@
 # Multicollinearity-Analysis-using-Longley-s-Regression-dataset
 Multicollinearity occurs when two or more independent variables in a regression model are highly correlated with each other. This mini project digs deeper into the concept of multicollinearity, how to detect its presence and what measures to take while dealing with multicollinearity within our dataset.
+The Longley dataset is a classic US macroeconomic dataset introduced by J.W. Longley in 1967 to test the numerical accuracy of least-squares computer programs. It is famously used to evaluate regression algorithms due to severe multicollinearity among its variables.
